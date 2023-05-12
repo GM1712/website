@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background:aqua;
+}
+
+ul li {
+    color: rgb(156, 164, 164);
+}
+
+.navbar ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+    font-weight: 900;
+    font-size: xx-large;
+    color: white;
+}
+
+.head-item {
+    margin: 20px;
+    text-decoration: none;
+    
+
+}
+
+.hero-section img {
+    height: 100%;
+    width: 100%;
+}
+
+.hero-section h1 {
+    position: absolute;
+    top: 50%;
+    color: rgb(94, 181, 212);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 30px;
+    font-size: 30mm;
+    justify-content: center;
+}
+
+
+/*----------------------aboutus start-------------------*/
+.container {
+    display: flex;
+    height: 50%;
+    width: 100%;
+}
+
+.img1 {
+    padding-top: 15% 20px 20px 20px;
+}
+
+.card-item {
+    padding: 10%;
+    border: 1cm;
+}
+
+/*----------------------aboutus end-------------------*/
+
+/*----------------------course start-------------------*/
+
+
+.container2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+.java1 {
+    height: 50%;
+    width: 50%;
+    margin: 30px;
+}
+
+.java2 {
+    margin: 27px;
+    padding-top: 27px;
+
+}
+
+.java3 {
+    margin: 27px;
+    padding-top: 27px;
+}
